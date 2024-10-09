@@ -1,1 +1,1 @@
-# describing an image
+# predicting_next_word
